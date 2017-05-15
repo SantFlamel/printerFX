@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="printerFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/printerFX_jar</output-path>
+    <root id="archive" name="printerFX_jar.jar">
+      <element id="module-output" name="printerFX" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/fastjson-1.2.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

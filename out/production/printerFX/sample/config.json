@@ -1,0 +1,11 @@
+{
+  "Host"     : "0.0.0.0",
+  "HostPort" : 7730,
+  "FileCert" : "C:\\projects\\java\\PrinerJava\\src\\certificate.jks",
+  "PassCert" : "123456",
+  "PassJKS"  : "12345",
+  "Encoding"  : "CP866",
+  "Printers" : {
+    "11854b653819e6cdd44feb00321e54cf398cba9672e78ec9ba9ad1c6b92de8b47e8d97f5788450778d89d646a054e451e341946a8f87e57edc8681a27e0e065d0":"\\\\192.168.0.88\\pp6900",
+    "1854b653819e6cdd44feb00321e54cf398cba9672e78ec9ba9ad1c6b92de8b47e8d97f5788450778d89d646a054e451e341946a8f87e57edc8681a27e0e065d0":"PP9000"}
+}
