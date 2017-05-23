@@ -1,2 +1,3 @@
 @echo off
-java  -Dfile.encoding="cp866" -jar printerFX_jar.jar
+Chcp 1251
+java  -Dfile.encoding="cp1251" -jar printerFX_jar.jar
